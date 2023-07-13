@@ -1,2 +1,16 @@
-package com.controlflow;public class Main {
+package com.controlflow;
+
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
+
+public class Main {
+    public Main() {
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(FirstLastDigitSum.sumFirstAndLastDigit(257));
+    }
 }

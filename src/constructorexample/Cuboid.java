@@ -1,4 +1,4 @@
-package gettersandsettters;
+package constructorexample;
 public class Cuboid extends Rectangle {
     private double height;
 

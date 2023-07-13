@@ -1,2 +1,5 @@
-package interfaces;public interface TestInterface {
+package interfaces;
+public interface TestInterface {
+    void helloWorld();
+    void hiJava();
 }

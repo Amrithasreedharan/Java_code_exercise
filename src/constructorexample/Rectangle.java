@@ -1,4 +1,4 @@
-package gettersandsettters;
+package constructorexample;
 public class Rectangle {
     private double width;
     private double length;

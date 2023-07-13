@@ -1,10 +1,10 @@
 package com.collections;
 
-import java.util.HashSet;
+import java.util.LinkedHashSet;
 
 public class LinkedHashSetImplemnt {
     public static void main(String[] args) {
-        HashSet linkHashSet = new HashSet<>();
+        LinkedHashSet linkHashSet = new LinkedHashSet<>();
         linkHashSet.add("a");
         linkHashSet.add(1);
         linkHashSet.add(5);
